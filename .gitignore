@@ -1,0 +1,7 @@
+*.py[cod] 
+.venv/ 
+data/* !data/.gitkeep 
+outputs/* !outputs/.gitkeep 
+.vscode/ 
+.idea/ 
+.streamlit/ 
